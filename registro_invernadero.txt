@@ -1,0 +1,35 @@
+[2026-05-29 19:54:59] REGISTRO
+Sensores: Temperatura Central: 0.0 | Humedad Suelo: 0.0 | 
+Dispositivos: Ventilador Extractor (APAGADO) | Bomba de Agua Principal (APAGADO) | Lampara Termica UV (ENCENDIDO) | 
+Consumo Actual: 210,0 W
+--------------------------------------------------
+[2026-05-29 19:59:17] REGISTRO
+Sensores: Temperatura Central: 0.0 | Humedad Suelo: 0.0 | 
+Dispositivos: Ventilador Extractor (APAGADO) | Bomba de Agua Principal (APAGADO) | Lampara Termica UV (ENCENDIDO) | 
+Consumo Actual: 210,0 W
+--------------------------------------------------
+[2026-05-29 20:02:03] REGISTRO
+Sensores: Temperatura Central: 0.0 | Humedad Suelo: 0.0 | 
+Dispositivos: Ventilador Extractor (APAGADO) | Bomba de Agua Principal (APAGADO) | Lampara Termica UV (ENCENDIDO) | 
+Consumo Actual: 210,0 W
+--------------------------------------------------
+[2026-05-29 20:05:36] REGISTRO
+Sensores: Temperatura Central: 0.0 | Humedad Suelo: 0.0 | 
+Dispositivos: Ventilador Extractor (APAGADO) | Bomba de Agua Principal (APAGADO) | Lampara Termica UV (ENCENDIDO) | 
+Consumo Actual: 210,0 W
+--------------------------------------------------
+[2026-05-29 20:11:39] REGISTRO
+Sensores: Temperatura Central: 0.0 | Humedad Suelo: 0.0 | 
+Dispositivos: Ventilador Extractor (APAGADO) | Bomba de Agua Principal (APAGADO) | Lampara Termica UV (ENCENDIDO) | 
+Consumo Actual: 210,0 W
+--------------------------------------------------
+[2026-05-29 20:13:49] REGISTRO
+Sensores: Temperatura Central: 0.0 | Humedad Suelo: 0.0 | 
+Dispositivos: Ventilador Extractor (ENCENDIDO) | Bomba de Agua Principal (APAGADO) | Lampara Termica UV (APAGADO) | 
+Consumo Actual: 150,0 W
+--------------------------------------------------
+[2026-05-29 20:14:54] REGISTRO
+Sensores: Temperatura Central: 0.0 | Humedad Suelo: 0.0 | 
+Dispositivos: Ventilador Extractor (ENCENDIDO) | Bomba de Agua Principal (ENCENDIDO) | Lampara Termica UV (APAGADO) | 
+Consumo Actual: 230,0 W
+--------------------------------------------------
