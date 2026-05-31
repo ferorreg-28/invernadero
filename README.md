@@ -122,3 +122,6 @@ GestorInvernadero "1" --> "*" Sensor : contiene
 Pantalla "1" --> "1" GestorInvernadero : usa
 MainGUI ..> GestorInvernadero : crea
 MainGUI ..> Pantalla : despliega
+## Documentación
+
+[ Clic aquí para ver la Especificación Técnica del Proyecto](./documentos/documentoProyPOO.pdf)
